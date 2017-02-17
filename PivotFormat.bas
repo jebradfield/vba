@@ -1,8 +1,5 @@
-Attribute VB_Name = "PivotFormat"
-
 Sub PivotFormat()
-Attribute PivotFormat.VB_Description = "1) unclick autofit columns on update\n2) Display: classic Pivot Table\n3) unclick command and collapse buttons\n4) subtotals: remove   \n5)  report layout: show in tabular form\n6) report layout: repeat rows"
-Attribute PivotFormat.VB_ProcData.VB_Invoke_Func = "q\n14"
+
 '
 ' PivotFormat Macro
 ' 1) unclick autofit columns on update
